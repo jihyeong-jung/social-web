@@ -1,0 +1,6 @@
+{
+  "name": "공공·복지사업 안내서 데이터 구조화",
+  "description": "공공기관 및 복지분야 사업 안내서(PDF 및 텍스트)를 분석하여 표준 JSON 데이터 및 웹페이지 출력용 카드로 자동 추출·구조화하는 전문 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
